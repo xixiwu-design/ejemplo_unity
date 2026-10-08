@@ -10,4 +10,7 @@ public class ValorsGlobales : MonoBehaviour
     public static float limiteArribaY = 5f;
     public static float limiteAbajoY = -3f;
 
+    public static float limiteZNegativo = -5f;
+    public static float limiteZPositivo = 100f;
+
 }
